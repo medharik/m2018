@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<etudiant id="1">
+	<nom>unNOm</nom>
+	<prenom>unPrenom</prenom>
+	<notes>
+		<note  >
+			19
+		</note>
+		
+		<note >
+			12
+		</note>
+	</notes>
+</etudiant>
